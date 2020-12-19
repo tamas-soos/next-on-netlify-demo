@@ -53,6 +53,10 @@ const Index = () => (
     </p>
 
     <hr />
+    <Link href="/jobs-dev/users">
+      <a>jobs.dev</a>
+    </Link>
+    <hr />
 
     <h1>Examples</h1>
     <h2>getInitialProps</h2>
